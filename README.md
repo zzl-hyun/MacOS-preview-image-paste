@@ -1,4 +1,4 @@
-# macOS 미리보기 이미지 붙여넣기
+# MacOS-preview-image-paste
 
 [English](README.md) | 한국어
 
