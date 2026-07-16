@@ -1,5 +1,7 @@
 # macOS Preview Image Paste
 
+English | [한국어](README.ko.md)
+
 Paste a screenshot or clipboard PNG directly into a PDF opened in Preview on
 macOS Tahoe.
 
